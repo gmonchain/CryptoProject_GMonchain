@@ -8,6 +8,19 @@ GMonchain is on a mission to simplify the world of blockchain for newcomers, esp
 
 By providing a seamless onboarding journey, GMonchain empowers users to confidently take their first steps into Web3, setting the stage for deeper exploration of complex decentralized applications in the future.
 
+## Screenshots
+
+<table style="width:100%">
+  <tr>
+    <td style="width:50%; text-align:center;">
+      <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%;">
+    </td>
+    <td style="width:50%; text-align:center;">
+      <img src="Banner/image-2.png" alt="Screenshot 2" style="width:100%;">
+    </td>
+  </tr>
+</table>
+
 ## Navigating the Challenges
 
 Building a product that prioritizes user experience and reliability is a continuous journey. We constantly strive to optimize GMonchain, ensuring a smooth and dependable platform for all our users.
