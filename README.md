@@ -13,7 +13,7 @@ By providing a seamless onboarding journey, GMonchain empowers users to confiden
 <table style="width:100%">
   <tr>
     <td style="width:50%; text-align:center;">
-      <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%;">
+      <img src="Banner/image-3.png" alt="Screenshot 1" style="width:100%;">
     </td>
     <td style="width:50%; text-align:center;">
       <img src="Banner/image-2.png" alt="Screenshot 2" style="width:100%;">
