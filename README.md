@@ -56,3 +56,5 @@ Users can stake their \$GM tokens in a dedicated pool. Weekly snapshots determin
 ```
 0x6bc86cb06db133e939cc9d3cd27b6b34772dd0cb
 ```
+## Farcaster Mini App
+Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/x9qnnccfRPVV/gmonchain](https://farcaster.xyz/miniapps/x9qnnccfRPVV/gmonchain)
