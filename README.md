@@ -1,9 +1,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
+## Unlocking Web3 for Everyone
 
 ![GMonchain Banner](Banner/banner.png)
-
-## Unlocking Web3 for Everyone
 
 GMonchain is on a mission to simplify the world of blockchain for newcomers, especially those joining the Farcaster ecosystem. We understand that the transition to decentralized applications can be daunting, which is why we've crafted an intuitive and friendly entry point. Our focus on an exceptional user experience ensures that interacting with blockchain technology is not just easy, but enjoyable.
 
