@@ -58,3 +58,52 @@ Users can stake their \$GM tokens in a dedicated pool. Weekly snapshots determin
 ```
 ## Farcaster Mini App
 Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/x9qnnccfRPVV/gmonchain](https://farcaster.xyz/miniapps/x9qnnccfRPVV/gmonchain)
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+- MetaMask or compatible Web3 wallet
+- Basic understanding of blockchain concepts
+
+- ### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/gmonchain/CryptoProject_GMonchain.git
+cd CryptoProject_GMonchain
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+## 🌟 Key Features
+
+- **Daily GM Rewards**: Claim daily tokens by saying GM to the community
+- **Advanced Staking**: Stake $GM tokens for additional rewards and community benefits
+- **Farcaster Integration**: Seamless integration with the Farcaster social ecosystem
+- **Base Network**: Built on Base for fast, secure, and low-cost transactions
+- **User-Friendly Interface**: Intuitive design perfect for Web3 newcomers
+- **Smart Contracts**: Fully audited and deployed smart contracts for security
+
+## 🤝 Contributing
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+---
+
+*Built with ❤️ for the Farcaster and Base communities*
+  
