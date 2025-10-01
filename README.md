@@ -6,7 +6,7 @@
 
 GMonchain is on a mission to simplify the world of blockchain for newcomers, especially those joining the Farcaster ecosystem. We understand that the transition to decentralized applications can be daunting, which is why we've crafted an intuitive and friendly entry point. Our focus on an exceptional user experience ensures that interacting with blockchain technology is not just easy, but enjoyable.
 
-By providing a seamless onboarding journey, GMonchain empowers users to confidently take their first steps into Web3, setting the stage for deeper exploration of complex decentralized applications in the future.
+By providing a seamless onboarding journey, GMonchain empowers users to confidently take their first steps into Web3, setting the stage for deeper exploration of complex decentralized applications in the future. 
 
 ## Screenshots
 
